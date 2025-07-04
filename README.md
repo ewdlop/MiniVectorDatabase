@@ -1,6 +1,6 @@
 # VectorDatabase
 
-A high-performance vector database implementation in C++ designed for efficient storage, indexing, and similarity search of high-dimensional vectors.
+A vector database implementation in C++ designed for efficient storage, indexing, and similarity search of high-dimensional vectors.
 
 ## Overview
 
