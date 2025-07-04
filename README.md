@@ -14,7 +14,7 @@ VectorDatabase is a lightweight, fast vector database that supports:
 ## Features
 
 - ✅ **Multiple Distance Metrics**: Euclidean, Cosine, Manhattan, and Dot Product
-- ✅ **Indexing Support**: Linear search, KD-Trees, and Approximate Nearest Neighbor (ANN)
+- [ ] **Indexing Support**: Linear search, KD-Trees, and Approximate Nearest Neighbor (ANN)
 - ✅ **Batch Operations**: Insert, update, and delete vectors in batches
 - ✅ **Persistence**: Save and load vector databases to/from disk
 - ✅ **Thread Safety**: Multi-threaded operations support
